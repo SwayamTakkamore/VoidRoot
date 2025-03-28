@@ -1,0 +1,151 @@
+Crime_ID,Crime_Type,Location,Date,Time,Severity,Victim_Age,Victim_Gender,Weapon_Used,Reported_By,Response_Time(min),Arrest_Made,Latitude,Longitude
+100,Sexual Assault,Home,2024-03-01,3:1,Low,26,Female,Gun,Victim,7,No,19.168772,79.112581
+101,Sexual Assault,Workplace,2024-02-26,3:29,Moderate,38,Female,Gun,Witness,14,Yes,19.116575,79.196508
+102,Eve Teasing,Street Corner,2024-02-12,21:52,Severe,38,Female,Blunt Object,Neighbor,18,Yes,19.071819,79.154009
+103,Eve Teasing,Home,2024-02-26,6:56,Moderate,19,Female,Gun,Neighbor,6,Yes,19.084583,79.090034
+104,Threats,Workplace,2024-02-21,10:6,Severe,19,Female,Acid,Neighbor,18,No,19.105012,79.102001
+105,Domestic Violence,Shopping Area,2024-03-09,13:27,Severe,31,Female,Blunt Object,Police,25,No,19.071288,79.175767
+106,Acid Attack,Bus Stop,2024-01-24,1:35,Low,44,Female,Acid,Witness,13,No,19.082087,79.171789
+107,Domestic Violence,Railway Station,2024-03-16,23:16,Severe,43,Female,None,Witness,28,Yes,19.106499,79.226786
+108,Cyber Harassment,Home,2024-03-12,5:6,Low,42,Female,Acid,Witness,9,No,19.11195,79.095688
+109,Assault,Apartment Complex,2024-01-03,16:48,Severe,31,Female,Knife,Anonymous,29,Yes,19.099477,79.177579
+110,Domestic Violence,Street Corner,2024-02-10,18:46,Low,20,Female,Acid,Witness,16,No,19.159011,79.198617
+111,Assault,City Park,2024-02-13,6:5,Severe,20,Female,Acid,Neighbor,13,No,19.165413,79.074177
+112,Verbal Abuse,Market Street,2024-01-17,15:34,Severe,28,Female,Knife,Anonymous,18,Yes,19.1208,79.075207
+113,Eve Teasing,Residential Area,2024-01-04,12:2,Low,36,Female,Acid,Witness,15,No,19.095397,79.114843
+114,Cyber Harassment,Near School,2024-02-20,22:14,Moderate,16,Female,None,Neighbor,8,No,19.099284,79.115541
+115,Stalking,Bus Stop,2024-01-09,11:44,Low,32,Female,Knife,CCTV,7,Yes,19.144817,79.219283
+116,Groping,Railway Station,2024-03-17,21:44,Severe,18,Female,None,Anonymous,9,No,19.133369,79.121781
+117,Domestic Violence,Bus Stop,2024-01-06,2:54,Severe,45,Female,Blunt Object,Neighbor,4,No,19.081366,79.243438
+118,Cyber Harassment,Market Street,2024-02-16,18:56,Moderate,41,Female,None,Neighbor,14,No,19.119959,79.19231
+119,Domestic Violence,Near School,2024-03-25,14:20,Low,20,Female,None,CCTV,23,Yes,19.081899,79.164823
+120,Theft,Shopping Area,2024-01-20,15:35,Moderate,38,Female,Knife,Neighbor,3,Yes,19.136827,79.133364
+121,Sexual Assault,Near School,2024-02-09,18:34,Severe,22,Female,Acid,Police,28,No,19.109544,79.145686
+122,Stalking,Near School,2024-02-03,19:28,Moderate,43,Female,Gun,Anonymous,23,Yes,19.11731,79.125814
+123,Domestic Violence,Apartment Complex,2024-02-28,13:22,Moderate,29,Female,Gun,Police,18,Yes,19.14112,79.208515
+124,Assault,Shopping Area,2024-01-13,12:54,Moderate,33,Female,Gun,Victim,8,No,19.071067,79.073911
+125,Verbal Abuse,Railway Station,2024-03-10,12:57,Low,31,Female,Acid,Anonymous,7,No,19.123192,79.23376
+126,Acid Attack,Shopping Area,2024-01-04,4:0,Severe,20,Female,Blunt Object,Anonymous,20,No,19.107147,79.190581
+127,Kidnapping,Workplace,2024-01-24,4:12,Moderate,41,Female,Knife,Witness,8,Yes,19.138883,79.114985
+128,Eve Teasing,Residential Area,2024-03-05,0:5,Low,33,Female,Blunt Object,Witness,23,No,19.115001,79.080594
+129,Groping,Mall,2024-03-27,16:25,Severe,22,Female,Acid,Anonymous,24,Yes,19.16709,79.218855
+130,Kidnapping,Railway Station,2024-03-17,21:24,Moderate,35,Female,None,Anonymous,24,Yes,19.131422,79.086797
+131,Assault,Market Street,2024-03-07,9:37,Low,28,Female,Acid,Neighbor,22,Yes,19.161355,79.229874
+132,Forced Entry,Street Corner,2024-03-17,23:30,Moderate,35,Female,Gun,Victim,30,Yes,19.146635,79.193084
+133,Sexual Assault,Street Corner,2024-02-15,17:54,Low,19,Female,Acid,Neighbor,24,No,19.089636,79.173212
+134,Assault,Mall,2024-02-05,7:2,Moderate,42,Female,Knife,Victim,9,Yes,19.164317,79.230689
+135,Acid Attack,Home,2024-03-28,21:56,Severe,19,Female,Knife,Victim,22,No,19.097651,79.059626
+136,Snatching,Concert Venue,2024-03-02,23:26,Severe,45,Female,None,Anonymous,10,Yes,19.084751,79.17075
+137,Cyber Harassment,Market Street,2024-01-11,21:1,Moderate,23,Female,Knife,Victim,21,Yes,19.110096,79.228501
+138,Domestic Violence,Concert Venue,2024-02-05,12:24,Low,18,Female,Acid,Police,20,No,19.083013,79.17173
+139,Harassment,City Park,2024-01-29,4:6,Severe,25,Female,Gun,CCTV,10,Yes,19.071297,79.146546
+140,Verbal Abuse,Railway Station,2024-01-23,10:20,Moderate,27,Female,None,Victim,24,Yes,19.152991,79.16939
+141,Eve Teasing,Parking Lot,2024-01-05,14:13,Moderate,32,Female,Acid,Witness,5,No,19.106845,79.09658
+142,Kidnapping,Residential Area,2024-01-26,14:4,Moderate,38,Female,Blunt Object,Neighbor,16,No,19.162304,79.066865
+143,Acid Attack,Bus Stop,2024-01-27,23:37,Severe,38,Female,Blunt Object,Neighbor,30,No,19.114621,79.118396
+144,Acid Attack,Railway Station,2024-01-07,6:18,Low,36,Female,Knife,Police,13,No,19.16587,79.119459
+145,Cyber Harassment,Railway Station,2024-02-26,22:7,Severe,18,Female,Knife,Witness,10,Yes,19.07854,79.103206
+146,Domestic Violence,Apartment Complex,2024-01-15,4:48,Moderate,23,Female,Knife,CCTV,15,No,19.103814,79.247365
+147,Snatching,Mall,2024-03-23,13:45,Severe,32,Female,None,Victim,21,No,19.094301,79.194577
+148,Threats,Workplace,2024-01-22,23:50,Moderate,36,Female,Knife,CCTV,23,Yes,19.138243,79.160084
+149,Cyber Harassment,Mall,2024-02-13,21:16,Low,32,Female,Knife,Witness,22,No,19.151539,79.17978
+150,Eve Teasing,Concert Venue,2024-02-23,17:40,Severe,31,Female,None,Victim,11,Yes,19.073916,79.221638
+151,Assault,Bus Stop,2024-03-05,20:44,Moderate,39,Female,None,Anonymous,18,No,19.164639,79.150272
+152,Stalking,Workplace,2024-01-12,22:22,Low,42,Female,None,Neighbor,8,Yes,19.165487,79.056127
+153,Harassment,City Park,2024-02-06,17:57,Moderate,24,Female,Gun,Victim,12,Yes,19.143754,79.243557
+154,Forced Entry,City Park,2024-01-28,22:59,Moderate,16,Female,None,CCTV,22,No,19.125454,79.14262
+155,Verbal Abuse,Bus Stop,2024-03-19,3:52,Low,39,Female,None,Victim,22,No,19.079761,79.125735
+156,Eve Teasing,Apartment Complex,2024-03-08,9:32,Low,21,Female,Blunt Object,Police,11,Yes,19.095611,79.186094
+157,Verbal Abuse,Shopping Area,2024-01-31,5:1,Moderate,19,Female,None,Anonymous,17,Yes,19.084872,79.194983
+158,Theft,Concert Venue,2024-01-06,8:2,Low,37,Female,Blunt Object,Neighbor,3,Yes,19.139871,79.186228
+159,Theft,Parking Lot,2024-02-19,20:27,Severe,35,Female,Blunt Object,CCTV,15,Yes,19.072372,79.051193
+160,Snatching,Apartment Complex,2024-03-13,2:32,Low,21,Female,Blunt Object,Neighbor,14,Yes,19.10034,79.116421
+161,Threats,Mall,2024-01-06,23:21,Severe,24,Female,Gun,Neighbor,14,Yes,19.155548,79.23058
+162,Stalking,Near School,2024-02-06,22:7,Moderate,23,Female,None,CCTV,7,No,19.085297,79.130407
+163,Verbal Abuse,Residential Area,2024-03-27,5:20,Severe,22,Female,Knife,CCTV,6,Yes,19.159971,79.120217
+164,Forced Entry,Near School,2024-03-17,17:13,Moderate,43,Female,Gun,Victim,20,No,19.169231,79.232077
+165,Forced Entry,Near School,2024-02-02,1:8,Severe,20,Female,Gun,Neighbor,8,Yes,19.118781,79.203316
+166,Forced Entry,Near School,2024-03-23,9:21,Low,41,Female,Gun,Neighbor,18,Yes,19.153468,79.115911
+167,Theft,Parking Lot,2024-01-30,20:19,Low,35,Female,Gun,Victim,4,No,19.107197,79.098082
+168,Stalking,Bus Stop,2024-02-12,12:14,Severe,36,Female,None,Witness,24,No,19.118092,79.116996
+169,Snatching,Street Corner,2024-02-12,17:43,Severe,42,Female,None,CCTV,22,No,19.108311,79.091216
+170,Acid Attack,Bus Stop,2024-02-12,12:35,Severe,44,Female,Acid,Anonymous,10,No,19.131574,79.185235
+171,Verbal Abuse,City Park,2024-01-24,18:58,Moderate,23,Female,Knife,Neighbor,23,No,19.105849,79.05373
+172,Verbal Abuse,Workplace,2024-01-08,22:46,Severe,33,Female,Knife,Anonymous,22,Yes,19.11308,79.10876
+173,Theft,Market Street,2024-03-04,21:8,Low,16,Female,Blunt Object,CCTV,28,No,19.079293,79.166117
+174,Eve Teasing,Residential Area,2024-01-25,3:4,Severe,32,Female,None,Neighbor,5,No,19.134665,79.205939
+175,Groping,Mall,2024-02-06,8:14,Low,22,Female,Gun,Anonymous,25,Yes,19.073006,79.15477
+176,Theft,Home,2024-03-15,22:23,Moderate,30,Female,Acid,Victim,24,Yes,19.090641,79.104837
+177,Kidnapping,Railway Station,2024-02-15,8:59,Moderate,43,Female,None,Witness,15,No,19.081474,79.188899
+178,Stalking,City Park,2024-02-12,22:24,Severe,40,Female,Acid,Victim,13,No,19.117359,79.075674
+179,Groping,Parking Lot,2024-01-31,21:24,Low,41,Female,Blunt Object,CCTV,13,Yes,19.105457,79.068373
+180,Eve Teasing,Residential Area,2024-03-08,11:2,Moderate,21,Female,Blunt Object,Witness,18,No,19.110397,79.22828
+181,Threats,Apartment Complex,2024-01-01,17:3,Low,32,Female,Knife,Police,18,Yes,19.098112,79.16578
+182,Assault,Home,2024-03-20,4:18,Low,21,Female,Gun,Anonymous,20,No,19.104788,79.125126
+183,Domestic Violence,Parking Lot,2024-03-05,8:57,Low,25,Female,Knife,Victim,4,Yes,19.108768,79.109895
+184,Theft,Bus Stop,2024-02-15,6:26,Moderate,23,Female,Blunt Object,CCTV,9,Yes,19.109201,79.063043
+185,Theft,Workplace,2024-03-11,18:56,Severe,23,Female,Gun,Victim,29,No,19.115424,79.133373
+186,Sexual Assault,Bus Stop,2024-01-07,7:57,Moderate,28,Female,None,CCTV,16,Yes,19.085307,79.089751
+187,Assault,Mall,2024-03-04,12:4,Moderate,22,Female,Knife,Police,3,No,19.134633,79.097164
+188,Groping,Near School,2024-01-20,19:51,Moderate,20,Female,Knife,Neighbor,15,No,19.113115,79.130718
+189,Acid Attack,Concert Venue,2024-01-09,20:5,Severe,17,Female,None,Police,27,No,19.073417,79.145888
+190,Domestic Violence,Near School,2024-03-08,18:38,Moderate,25,Female,Knife,Victim,28,Yes,19.163864,79.240727
+191,Domestic Violence,Mall,2024-02-08,13:5,Severe,35,Female,Blunt Object,Victim,12,No,19.137512,79.103023
+192,Groping,Workplace,2024-03-21,11:10,Moderate,39,Female,Gun,Neighbor,14,Yes,19.09832,79.102663
+193,Cyber Harassment,Home,2024-02-26,12:33,Moderate,44,Female,Gun,Victim,27,Yes,19.117217,79.232561
+194,Verbal Abuse,Bus Stop,2024-01-30,14:22,Low,41,Female,Gun,Neighbor,3,Yes,19.151821,79.151548
+195,Acid Attack,Railway Station,2024-02-21,15:4,Low,31,Female,Gun,Neighbor,3,Yes,19.131739,79.186076
+196,Theft,Apartment Complex,2024-03-01,17:34,Moderate,34,Female,Acid,Neighbor,6,Yes,19.093085,79.201018
+197,Forced Entry,Bus Stop,2024-03-26,12:34,Severe,44,Female,Gun,Anonymous,14,Yes,19.083819,79.138202
+198,Kidnapping,City Park,2024-03-12,21:45,Moderate,40,Female,Blunt Object,Victim,10,Yes,19.091819,79.1361
+199,Assault,Parking Lot,2024-01-18,4:27,Severe,32,Female,Blunt Object,Witness,30,No,19.144592,79.061565
+200,Harassment,Railway Station,2024-01-17,14:38,Severe,36,Female,Gun,Victim,27,No,19.093264,79.104916
+201,Assault,City Park,2024-03-21,7:48,Moderate,16,Female,Knife,CCTV,12,Yes,19.085147,79.079468
+202,Harassment,Bus Stop,2024-01-11,11:40,Moderate,22,Female,Gun,Anonymous,4,No,19.115299,79.187777
+203,Kidnapping,Market Street,2024-01-02,16:25,Low,44,Female,Gun,CCTV,30,Yes,19.117148,79.065637
+204,Assault,Concert Venue,2024-02-06,20:45,Low,37,Female,Gun,Victim,17,Yes,19.076936,79.222964
+205,Cyber Harassment,Parking Lot,2024-02-24,3:52,Severe,25,Female,Acid,Victim,19,Yes,19.13635,79.123384
+206,Cyber Harassment,Workplace,2024-02-28,4:14,Moderate,44,Female,Blunt Object,Anonymous,15,No,19.139732,79.205144
+207,Assault,Near School,2024-02-29,9:39,Moderate,21,Female,Gun,Police,25,Yes,19.136659,79.200521
+208,Snatching,Home,2024-02-18,8:39,Low,39,Female,Knife,CCTV,17,No,19.134671,79.209004
+209,Acid Attack,Residential Area,2024-03-08,10:14,Severe,16,Female,Blunt Object,Victim,27,No,19.089357,79.198481
+210,Acid Attack,Concert Venue,2024-02-10,17:55,Moderate,42,Female,Knife,Neighbor,8,Yes,19.098115,79.073588
+211,Threats,Apartment Complex,2024-02-13,18:31,Low,39,Female,None,Victim,16,No,19.098329,79.208606
+212,Theft,Workplace,2024-02-14,0:47,Low,26,Female,Gun,Anonymous,29,No,19.137117,79.162616
+213,Forced Entry,Residential Area,2024-02-29,20:36,Low,31,Female,Gun,Neighbor,21,No,19.105235,79.172155
+214,Threats,Street Corner,2024-01-15,2:19,Moderate,38,Female,Blunt Object,Police,23,Yes,19.163492,79.050731
+215,Domestic Violence,Shopping Area,2024-03-16,12:33,Low,41,Female,Acid,Anonymous,26,No,19.104131,79.162981
+216,Groping,Residential Area,2024-01-03,6:11,Low,42,Female,Acid,Witness,21,No,19.111579,79.156015
+217,Sexual Assault,Parking Lot,2024-03-26,6:14,Moderate,20,Female,None,CCTV,13,Yes,19.125256,79.054692
+218,Stalking,Street Corner,2024-01-19,9:0,Severe,24,Female,Knife,Witness,6,Yes,19.151809,79.242907
+219,Stalking,Workplace,2024-02-26,8:32,Low,16,Female,Blunt Object,Victim,4,No,19.128351,79.118834
+220,Stalking,Parking Lot,2024-01-24,11:55,Severe,27,Female,Gun,Victim,20,Yes,19.107588,79.078043
+221,Snatching,Parking Lot,2024-02-16,8:23,Moderate,38,Female,Acid,Victim,13,Yes,19.071207,79.216152
+222,Kidnapping,Market Street,2024-03-17,1:11,Severe,24,Female,Knife,Neighbor,29,No,19.16352,79.186932
+223,Harassment,City Park,2024-03-26,5:9,Moderate,35,Female,None,CCTV,4,No,19.128195,79.231263
+224,Forced Entry,Railway Station,2024-03-19,10:6,Low,38,Female,Gun,Anonymous,14,No,19.148712,79.089255
+225,Groping,Railway Station,2024-03-06,23:56,Moderate,33,Female,Acid,Neighbor,6,Yes,19.112031,79.068628
+226,Kidnapping,Street Corner,2024-03-26,8:41,Moderate,25,Female,Blunt Object,CCTV,6,No,19.10198,79.085964
+227,Kidnapping,Home,2024-02-07,11:47,Moderate,16,Female,Gun,Police,8,Yes,19.122577,79.181276
+228,Groping,Parking Lot,2024-03-30,20:14,Moderate,29,Female,Blunt Object,Neighbor,30,No,19.083312,79.121293
+229,Cyber Harassment,Home,2024-02-08,20:2,Moderate,29,Female,None,CCTV,15,No,19.138106,79.195588
+230,Cyber Harassment,Residential Area,2024-02-21,21:21,Low,24,Female,Blunt Object,Neighbor,11,Yes,19.101193,79.071247
+231,Cyber Harassment,Apartment Complex,2024-02-27,11:0,Low,23,Female,Knife,CCTV,18,Yes,19.137092,79.07715
+232,Harassment,Railway Station,2024-02-23,6:34,Moderate,42,Female,Blunt Object,Witness,22,Yes,19.169105,79.146337
+233,Threats,Railway Station,2024-02-18,1:40,Severe,39,Female,None,CCTV,7,Yes,19.104363,79.114959
+234,Domestic Violence,City Park,2024-03-24,17:26,Low,18,Female,Gun,Police,3,No,19.158567,79.10777
+235,Threats,Concert Venue,2024-02-15,18:38,Moderate,43,Female,Blunt Object,CCTV,21,No,19.122423,79.213724
+236,Cyber Harassment,City Park,2024-01-13,11:19,Severe,18,Female,Gun,Victim,18,No,19.11689,79.065021
+237,Harassment,Mall,2024-02-18,15:54,Low,20,Female,Gun,Victim,3,No,19.121404,79.073618
+238,Cyber Harassment,Shopping Area,2024-02-04,8:4,Severe,40,Female,None,Victim,16,Yes,19.110299,79.159973
+239,Harassment,Bus Stop,2024-02-05,14:44,Severe,44,Female,Acid,Witness,25,No,19.076002,79.241012
+240,Domestic Violence,Parking Lot,2024-01-02,7:54,Severe,41,Female,None,CCTV,3,Yes,19.100968,79.17367
+241,Verbal Abuse,Home,2024-03-31,19:50,Moderate,31,Female,Acid,Anonymous,14,Yes,19.141288,79.170553
+242,Cyber Harassment,Residential Area,2024-03-10,2:44,Severe,31,Female,Acid,Anonymous,9,No,19.159673,79.185827
+243,Domestic Violence,Concert Venue,2024-02-20,8:52,Moderate,25,Female,None,Witness,30,Yes,19.134428,79.079403
+244,Acid Attack,Workplace,2024-02-26,11:42,Moderate,26,Female,Knife,CCTV,9,No,19.142689,79.197199
+245,Snatching,Concert Venue,2024-03-04,19:11,Low,35,Female,Knife,CCTV,10,No,19.163718,79.130637
+246,Forced Entry,Parking Lot,2024-03-25,15:46,Low,38,Female,Knife,Witness,12,Yes,19.140042,79.051777
+247,Harassment,Bus Stop,2024-03-22,14:28,Low,45,Female,Knife,Anonymous,15,No,19.154079,79.147496
+248,Forced Entry,Apartment Complex,2024-01-17,23:16,Moderate,32,Female,Gun,Witness,17,Yes,19.135252,79.207027
+249,Domestic Violence,Mall,2024-01-14,20:3,Low,37,Female,Blunt Object,Police,20,Yes,19.092756,79.157158
