@@ -5,6 +5,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 import 'package:geolocator/geolocator.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'ideabot.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -354,6 +355,21 @@ class _LocationScreenState extends State<LocationScreen> {
             const Spacer(),
             ElevatedButton.icon(
               onPressed: _isLoading ? null : _getCurrentLocation,
+              icon: const Icon(Icons.my_location),
+              label: Text(_isLoading ? "Checking..." : "Use Current Location"),
+              style: ElevatedButton.styleFrom(
+                minimumSize: const Size(double.infinity, 50),
+                padding: const EdgeInsets.symmetric(vertical: 15),
+              ),
+            ),
+            SizedBox(height: 20,),
+            ElevatedButton.icon(
+              onPressed: _isLoading ? null : () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => ideaBot()),
+                );
+              },
               icon: const Icon(Icons.my_location),
               label: Text(_isLoading ? "Checking..." : "Use Current Location"),
               style: ElevatedButton.styleFrom(
